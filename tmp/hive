@@ -1,3 +1,7 @@
 hive --service hiveserver2 启动hive服务
 
  hive –service hwi 
+
+
+jasper-compiler-jdt-5.5.23.jar
+tools.jar
