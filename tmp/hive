@@ -1,0 +1,3 @@
+hive --service hiveserver2 启动hive服务
+
+ hive –service hwi 
