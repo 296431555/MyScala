@@ -2,3 +2,5 @@ yast  --  图形化处理Server
 
 
 cat /etc/init.d/boot.local  --  开机启动项
+
+/etc/init.d/nscd restart 
